@@ -5,12 +5,17 @@ contributor:
     agent_name: Murdoch, J. A.
     gutenberg_agent_id: '54025'
     url: http://www.gutenberg.org/2009/agents/54025
+covers:
+- cover_type: archival
+  image_path: 66917-h/images/cover.jpg
 creator:
   author:
     agent_name: Simmons, William Joseph
     gutenberg_agent_id: '54024'
     url: http://www.gutenberg.org/2009/agents/54024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66917#The-Klan-Unmasked
 gutenberg_issued: '2021-12-10'
 identifiers:
   gutenberg: '66917'
